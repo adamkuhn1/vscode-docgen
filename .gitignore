@@ -3,4 +3,9 @@ out/
 *.vsix
 .env
 coverage/
-.cursorrules 
+.cursorrules
+CHANGELOG.md
+*.log
+.DS_Store
+Thumbs.db
+.vscode-test/ 
