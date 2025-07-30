@@ -6,7 +6,6 @@ let openai: OpenAI | undefined;
 export function activate(context: vscode.ExtensionContext): void {
 	console.log('VS Code JSDoc Generator is now active!');
 
-	// Initialize OpenAI client
 	const key = vscode.workspace.getConfiguration("docgen").get<string>("openaiApiKey");
 	if (!key) {
 		vscode.window.showErrorMessage("Please set docgen.openaiApiKey in your VS Code settings");
