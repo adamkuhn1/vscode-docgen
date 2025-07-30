@@ -1,15 +1,10 @@
 # vscode-docgen
 
-[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://marketplace.visualstudio.com/items?itemName=YOUR_PUBLISHER_ID.vscode-docgen)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/YOUR_USERNAME/vscode-docgen)
-[![Test Coverage](https://img.shields.io/badge/coverage-25%25-orange.svg)](https://github.com/YOUR_USERNAME/vscode-docgen)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > **AI-Powered JSDoc Generation for VS Code**  
 > Transform your code documentation with intelligent AI assistance
 
 <div align="center">
-  <img src="images/icon.png" alt="vscode-docgen Logo" width="128" height="128">
   <h2>🚀 AI-Powered JSDoc Generation</h2>
   <p><em>Generate professional JSDoc comments instantly with OpenAI GPT</em></p>
 </div>
@@ -188,26 +183,3 @@ Test coverage reports are generated automatically with detailed metrics.
 | `Generate JSDoc` | Generate JSDoc for selected code |
 
 ---
-
-## 📝 Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for detailed version history and updates.
-
----
-
-## ⚖️ License
-
-This is a solo-showcase project demonstrating advanced VS Code extension development with AI integration. No external license is provided.
-
----
-
-## 🤝 Contributing
-
-This is a personal showcase project. For questions or feedback, please open an issue on GitHub.
-
----
-
-<div align="center">
-  <p><strong>Made with ❤️ for the developer community</strong></p>
-  <p><em>Empowering developers to write better documentation, one function at a time.</em></p>
-</div>
