@@ -146,7 +146,7 @@ function calculateTotal(items, taxRate) {
 
 ## 🎬 Demo
 
-![VS Code Extension Demo](@vscode%20extension%20demo%20gif.gif)
+![VS Code Extension Demo](demo.gif)
 
 *Select code → Generate JSDoc → Get professional documentation*
 
