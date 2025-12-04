@@ -3,7 +3,6 @@ out/
 *.vsix
 .env
 coverage/
-.cursorrules
 CHANGELOG.md
 *.log
 .DS_Store
